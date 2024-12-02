@@ -11,8 +11,12 @@ Today's workshop is based on a popular refactoring exercise you can find out mor
 
 We recommend using [Intellij](https://www.jetbrains.com/idea/download/) as the IDE.
 
+You might also have to install [nvm-windows](https://github.com/coreybutler/nvm-windows) if you are running on Windows.
+
 You will have to install [Node](https://nodejs.org/en/download/package-manager) v18.20. This should also install `npm`,
-which is a Node packet manager
+which is a Node packet manager.
+
+You don't need to run this in a virtual machine.
 
 You might also have to install [ts-node](https://www.npmjs.com/package/ts-node#installation), after you get Node.
 
